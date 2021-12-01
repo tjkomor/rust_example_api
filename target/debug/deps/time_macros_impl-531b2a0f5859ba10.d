@@ -1,0 +1,11 @@
+/Users/pizzafux/rust/rust_example_api/target/debug/deps/libtime_macros_impl-531b2a0f5859ba10.dylib: /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/lib.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/date.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/ext.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/offset.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/mod.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/Users/pizzafux/rust/rust_example_api/target/debug/deps/time_macros_impl-531b2a0f5859ba10.d: /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/lib.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/date.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/ext.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/offset.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/mod.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/lib.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/date.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/ext.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/offset.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/mod.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.2/src/time_crate/date.rs:

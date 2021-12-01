@@ -1,0 +1,11 @@
+/Users/pizzafux/rust/rust_example_api/target/debug/deps/futures_core-eb05cfaa4a9dff96.rmeta: /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs
+
+/Users/pizzafux/rust/rust_example_api/target/debug/deps/futures_core-eb05cfaa4a9dff96.d: /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs /Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs
+
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs:
+/Users/pizzafux/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs:
